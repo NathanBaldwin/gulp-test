@@ -1,0 +1,22 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "Exercise to Learn How to Use Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanBaldwin/gulp-test.git"
+  },
+  "author": "Nathan Baldwin <nathansbaldwin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanBaldwin/gulp-test/issues"
+  },
+  "homepage": "https://github.com/NathanBaldwin/gulp-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
