@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/NathanBaldwin/gulp-test#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.0.6"
   }
 }
