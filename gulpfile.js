@@ -12,12 +12,8 @@ gulp.task('browser-sync', function() {
    ];
 
   browserSync.init(files, {
-    // files: 'Javascripts/**',
-    server: {
-            baseDir: './'
-    }
     // server: "./",
-    // proxy: "http://127.0.0.1:8081/gulp-test"
+    proxy: "http://127.0.0.1:8081/gulp-test"
   });
 });
 
